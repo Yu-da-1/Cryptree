@@ -1,0 +1,56 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:32:37] "[35m[1mPOST /upload_endpoint HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:37:26] "[33mGET /upload_endpointÅvÇì¸óÕÇµÇ‹Ç∑ÅB HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:37:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:40:06] "[35m[1mPOST /upload_endpoint HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:41:31] "[35m[1mPOST /upload_endpoint HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:45:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 07:46:55] "[35m[1mPOST /upload_endpoint HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 974-342-974
+INFO:werkzeug: * Detected change in 'C:\\Users\\isiyu\\CryptreeFolder\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
